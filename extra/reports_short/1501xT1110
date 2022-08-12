@@ -1,0 +1,1 @@
+We were able to brute force the actor-provided key using the inverse arithmetic operations using the embedded salt and embedded ciphertext, so we were able to extract the embedded webshells with ease.

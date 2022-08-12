@@ -1,0 +1,10 @@
+intent|adversary!adversary|escalate!escalate|privilege!privilege|
+intent|adversary!adversary|perform!perform|escalation!privilege escalation|
+intent|adversary!adversary|increase!increase|right!right|
+action|adversary!adversary|exploit!exploit|program!privilege program|
+action|adversary!adversary|gain!gain|permission!system permission|
+action|adversary!adversary|gain!gain|permission!root permission|
+action|adversary!adversary|move!move|environment!virtualized environment|
+tech|adversary!adversary|move!move|machine!virtual machine|
+tech|adversary!adversary|move!move|container!container|
+tech|adversary!adversary|bring!bring|driver!signed vulnerable driver|

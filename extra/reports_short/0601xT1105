@@ -1,0 +1,1 @@
+It downloads the file to the infected machine from the input URL using BITSAdmin, and is called every time the script attempts to download a file.

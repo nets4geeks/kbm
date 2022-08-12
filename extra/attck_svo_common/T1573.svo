@@ -1,0 +1,6 @@
+intent|adversary!adversary|conceal!conceal|traffic!c2 traffic|
+intent|adversary!adversary|protect!protect|server!C2 Server|
+intent|adversary!adversary|protect!protect|client!C2 Client|
+action|adversary!adversary|create!create|channel!encrypted channel|
+action|adversary!adversary|employ!employ|encryption!encryption|
+tech|key!C2 encryption key|save!be saved|file!configuration file|

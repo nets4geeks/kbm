@@ -1,0 +1,1 @@
+The majority of ActiveX Objects created with Wscript Shell and Shell Application are used to run programs, create shortcuts, manipulate the contents of the registry, or access system folders.

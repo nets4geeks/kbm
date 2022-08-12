@@ -1,0 +1,11 @@
+intent|adversary!adversary|execute!execute|payload!malicious payload|
+intent|adversary!adversary|escalate!escalate|+privilege!privilege|
+intent|adversary!adversary|use!use|+persistentProcess!persistent process|
+action|adversary!adversary|create!create|+systemProcess!system process|
+action|adversary!adversary|modify!modify|systemProcess!system process|
+tech|adversary!adversary|install!install|+service!service|
+tech|adversary!adversary|install!install|+daemon!daemon|
+tech|adversary!adversary|install!install|+agent!agent|
+tech|adversary!adversary|modify!modify|service!service|
+tech|adversary!adversary|modify!modify|daemon!daemon|
+tech|adversary!adversary|modify!modify|agent!agent|

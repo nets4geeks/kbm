@@ -1,0 +1,9 @@
+intent|adversary!adversary|search!search|file!file|
+intent|adversary!adversary|search!search|directory!directory|
+action|adversary!adversary|search!search|system!local file system|
+action|adversary!adversary|search!search|share!network share|
+tech|adversary!adversary|use!use|dir!dir|
+tech|adversary!adversary|use!use|tree!tree|
+tech|adversary!adversary|use!use|ls!ls|
+tech|adversary!adversary|use!use|find!find|
+tech|adversary!adversary|use!use|locate!locate|

@@ -1,0 +1,20 @@
+intent|adversary!adversary|execute!execute!oewn-02569242-v|command!command!oewn-06597067-n|
+intent|adversary!adversary|execute!execute|+script!script|
+intent|adversary!adversary|execute!execute|binary!binary!oewn-06583139-n|
+intent|adversary!adversary|use!use|+remoteExecution!remote execution|
+action|adversary!adversary|abuse!abuse|+commandInterpreter!command interpreter|
+action|adversary!adversary|abuse!abuse|+scriptInterpreter!script interpreter|
+tech|command!Command|embed!be embedded|+initialaccessPayload!Initial Access payload|passive!
+tech|script!script|embed!be embedded|initialaccessPayload!Initial Access payload|passive!
+tech|command!Command|embed!be embedded|+secondaryPayload!secondary payload|passive!
+tech|script!script|embed!be embedded|+secondaryPayload!secondary payload|passive!
+tech|adversary!Adversary|use!use|shell!shell!oewn-06588108-n|
+env|+operatingSystem!operating system!oewn-06580310-n|have!have|+commandLine!command line!oewn-06588108-n|
+env|operatingSystem!operating system|have!have|+python!Python!oewn-06588108-n|
+env|Linux!Linux|have!have|+unixShell!Unix Shell!oewn-06588108-n|
+env|macOS!macOS|have!have|+unixShell!Unix Shell!oewn-06588108-n|
+env|Windows!Windows|have!have|+powerShell!PowerShell!oewn-06588108-n|
+env|Windows!Windows|have!have|+visualBasic!Visual Basic!oewn-06588108-n|
+env|networkDevice!network device|have!have|+rexec!rexec|
+env|+clientApplication!client application!oewn-92467010-n|have!have|+JavaScript!JavaScript!oewn-92460937-n|
+term|adversary!adversary|run!run!oewn-02569242-v|access!access!oewn-05182994-n|

@@ -1,0 +1,15 @@
+intent|adversary!adversary|force!force|+execution!execution!oewn-13498665-n|
+intent|adversary!adversary|rely!rely|+userAction!user action|
+action|adversary!adversary|use!use|+socialEngineering!social engineering|
+action|adversary!adversary|use!use|+phishing!phishing|
+action|adversary!adversary|use!use|+spearPhishing!spear phishing|
+action|+user!user|execute!execute|code!malicious code|
+tech|adversary!adversary|spread!spread|document!malicious document|
+tech|adversary!adversary|spread!spread|file!malicious file|
+tech|adversary!adversary|spread!spread|link!malicious link|
+tech|adversary!adversary|spread!spread|application!malicious application|
+tech|user!user|open!open|document!malicious document|
+tech|user!user|open!open|link!malicious link|
+tech|user!user|open!open|attachment!email attachment|
+tech|user!user|run!run|application!malicious application|
+tech|user!user|enable!enable|+macro!malicious macro|

@@ -1,0 +1,1 @@
+The BONDUPDATER script, which was named based on the hard-coded string, uses a custom DGA algorithm to protect C2 server and C2 client. It generates subdomains for communication with the C2 server.

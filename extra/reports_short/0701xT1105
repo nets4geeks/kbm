@@ -1,0 +1,1 @@
+Microsoft Word attempting to download the remote template. If the C2 server is active at the time the document is opened, it will successfully retrieve the malicious macro and load it in the same Microsoft Word session.

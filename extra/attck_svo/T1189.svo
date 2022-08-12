@@ -1,0 +1,10 @@
+intent|adversary!adversary|target!target|browser!browser|
+intent|adversary!adversary|use!use|+wateringHoleAttack!watering hole attack|
+intent|adversary!adversary|use!use|+strategicWebCompromise!strategic web compromise|
+action|browser!browser|visit!visit|website!website|
+action|website!legitimate website|compromise!be compromised|adversary!adversary|passive!
+action|+browser!browser|target!be targeted|website!compromised website|passive!
+action|code!exploit code|deliver!be delivered|browser!browser|passive!
+tech|adversary!adversary|inject!inject|+JavaScript!JavaScript|
+tech|adversary!adversary|use!use|+crossSiteScripting!Cross Site Scripting|
+tech|adversary!adversary|inject!inject|ad!Malicious ad|

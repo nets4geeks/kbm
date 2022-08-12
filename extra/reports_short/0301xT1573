@@ -1,0 +1,1 @@
+A build tool is likely being used by these attackers to hide the C2 traffic. It allows the operator to configure details such as C2 addresses, C2 encryption keys, and a campaign code.

@@ -1,0 +1,1 @@
+The malware operates on victims systems as a svchost-based service and is capable of downloading executables, changing its own configuration, updating its own binaries, terminating its own processes, and activating and terminating denial-of-service attacks.

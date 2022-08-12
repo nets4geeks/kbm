@@ -1,0 +1,11 @@
+intent|adversary!adversary|execute!execute!oewn-02569242-v|command!command!oewn-06597067-n|
+intent|adversary!adversary|execute!execute|script!script|
+intent|adversary!adversary|execute!execute|binary!binary!oewn-06583139-n|
+intent|adversary!adversary|use!use|execution!remote execution|
+action|adversary!adversary|abuse!abuse|interpreter!command interpreter|
+action|adversary!adversary|abuse!abuse|interpreter!script interpreter|
+tech|command!Command|embed!be embedded|payload!Initial Access payload|passive!
+tech|script!script|embed!be embedded|payload!Initial Access payload|passive!
+tech|command!Command|embed!be embedded|payload!secondary payload|passive!
+tech|script!script|embed!be embedded|payload!secondary payload|passive!
+tech|adversary!Adversary|use!use|shell!shell!oewn-06588108-n|

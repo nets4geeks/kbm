@@ -1,0 +1,10 @@
+intent|adversary!adversary|hide!hide|activity!malicious activity|
+intent|obfuscation!obfuscation|mitigate!mitigate|detection!detection!oewn-00151907-n|
+action|adversary!adversary|obfuscate!obfuscate|code!malicious code!oewn-06367301-n|
+action|adversary!adversary|obfuscate!obfuscate|executableFile!executable file!oewn-06583139-n|
+action|adversary!adversary|encrypt!encrypt|string!plain text string!oewn-07026665-n|
+action|file!encrypted file|protect!be protected|password!password|passive!
+tech|adversary!adversary|compress!compress!oewn-01391983-v|payload!payload|
+tech|adversary!adversary|archive!archive|payload!payload|
+tech|adversary!adversary|encrypt!encrypt|payload!payload|
+tech|adversary!adversary|obfuscate!obfuscate|payload!payload|

@@ -1,0 +1,6 @@
+intent|adversary!adversary|manage!manage|+c2connection!c2 connection|
+intent|adversary!adversary|avoid!avoid|+directConnection!direct connection|
+action|adversary!adversary|use!use|+proxy!connection proxy|
+tech|adversary!adversary|use!use|+ZXProxy!HTRAN ZXProxy|
+tech|adversary!adversary|use!use|+ZXPortMap!ZXPortMap|
+tech|adversary!adversary|use!use|+ZXProxy!HTRAN ZXProxy|

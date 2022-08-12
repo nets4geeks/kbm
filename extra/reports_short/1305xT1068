@@ -1,0 +1,1 @@
+InvisiMole has exploited CVE-2007-5633 vulnerability in the speedfan.sys driver to obtain kernel mode privileges.

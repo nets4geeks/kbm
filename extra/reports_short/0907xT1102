@@ -1,0 +1,1 @@
+An increasingly popular tactic by threat actors is to use legitimate hosting services like Google Cloud or CloudFlare for their payload and C2 infrastructure, making it much more difficult to safely block IPs.

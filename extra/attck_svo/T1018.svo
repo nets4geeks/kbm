@@ -1,0 +1,7 @@
+intent|adversary!adversary|get!get|+listingOfHosts!listing of hosts|
+intent|adversary!adversary|map!map|+networkResource!network resource|
+intent|listing!listing of hosts|use!be used|Movement!Lateral Movement|passive!
+action|adversary!adversary|get!get|+ipAddress!IP address|
+action|adversary!adversary|get!get|+hostname!hostname|
+tech|adversary!adversary|use!use|+ping!ping|
+tech|adversary!adversary|use!use|+netView!net view|

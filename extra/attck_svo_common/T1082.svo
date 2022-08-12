@@ -1,0 +1,11 @@
+intent|adversary!adversary|get!get|information!operating system information|
+intent|adversary!adversary|get!get|information!hardware information|
+action|adversary!adversary|get!get|version!operating system version|
+action|adversary!adversary|get!get|patch!operating system patch|
+action|adversary!adversary|get!get|hotfix!operating system hotfix|
+action|adversary!adversary|get!get|pack!service pack|
+action|adversary!adversary|get!get|architecture!operating system architecture|
+action|adversary!adversary|use!use|discovery!automated discovery|
+tech|adversary!adversary|use!use|systeminfo!systeminfo|
+tech|adversary!adversary|use!use|systemsetup!systemsetup|
+tech|adversary!adversary|use!use|API!cloud API|

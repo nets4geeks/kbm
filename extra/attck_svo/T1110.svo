@@ -1,0 +1,4 @@
+intent|adversary!adversary|use!use|+bruteForce!brute force|
+intent|adversary!adversary|brute!brute|force!force|
+intent|adversary!adversary|gain!gain|credential!credential|
+action|adversary!adversary|guess!guess|password!password|

@@ -1,0 +1,10 @@
+intent|adversary!adversary|exchange!exchange|datum!data|
+intent|datum!data|leak!leak|system!compromised system|
+intent|adversary!adversary|protect!protect|+c2channel!c2 channel|
+intent|adversary!adversary|protect!protect|+c2infrastructure!c2 infrastructure|
+action|adversary!adversary|use!use|+cloudService!cloud service|
+action|adversary!adversary|use!use|+webService!web service|
+action|+socialMedia!social media|use!be used|adversary!adversary|passive!
+tech|adversary!adversary|use!use|+twitter!Twitter|
+tech|adversary!adversary|use!use|+googleCloud!Google Cloud|
+tech|adversary!adversary|use!use|+googleDriveAPI!Google Drive API|

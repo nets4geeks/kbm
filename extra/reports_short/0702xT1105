@@ -1,0 +1,1 @@
+The shellcode of the embedded object is designed to download an image, which is a new shellcode used to decode an embedded executable.

@@ -1,0 +1,1 @@
+Once the second DLL is executed, it gathers information about the victim system setup, it finds operating system version, and driver and processor information.

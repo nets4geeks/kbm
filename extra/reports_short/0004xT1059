@@ -1,0 +1,1 @@
+The rexec user command and the rexecd daemon provide the remote command execution protocol, allowing users to run commands on a compatible remote host.

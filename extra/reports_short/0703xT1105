@@ -1,0 +1,1 @@
+CARROTBAT itself is a dropper that allows an attacker to download and open an embedded decoy file, followed by the execution of a command that will drop and run a payload on the targeted machine.

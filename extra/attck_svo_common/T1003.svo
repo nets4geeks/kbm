@@ -1,0 +1,5 @@
+intent|adversary!adversary|obtain!obtain|login!account login|
+intent|adversary!adversary|obtain!obtain|credential!credential|
+action|adversary!adversary|dump!dump|credential!credential|
+tech|adversary!adversary|dump!dump|hash!password hash|
+tech|adversary!adversary|dump!dump|password!clear text password|

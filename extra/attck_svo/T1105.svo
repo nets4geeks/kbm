@@ -1,0 +1,16 @@
+intent|adversary!adversary|spread!spread|code!malicious code|
+action|adversary!adversary|download!download|tool!tool|
+action|adversary!adversary|download!download|file!other file|
+action|c2Server!c2 server|copy!copy|tool!tool|
+action|c2Server!c2 server|copy!copy|file!other file|
+action|server!remote server|copy!copy|tool!tool|
+action|server!remote server|copy!copy|file!other file|
+tech|adversary!adversary|use!use|+ftp!ftp|
+tech|adversary!adversary|use!use|+webService!web service|
+tech|adversary!adversary|use!use|+copyCmd!copy|
+tech|adversary!adversary|use!use|+fingerCmd!finger|
+tech|adversary!adversary|use!use|+scpCmd!scp|
+tech|adversary!adversary|use!use|+rsyncCmd!rsync|
+tech|adversary!adversary|use!use|+sftp!sftp|
+tech|adversary!adversary|use!use|+tftp!tftp|
+tech|adversary!adversary|use!use|+wget!wget|
